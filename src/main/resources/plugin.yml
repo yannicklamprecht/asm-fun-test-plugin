@@ -1,0 +1,4 @@
+name: asm-fun
+version: '1.0-SNAPSHOT'
+main: com.github.yannicklamprecht.asmFun.AsmFun
+api-version: '1.21.11'
